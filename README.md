@@ -1,2 +1,3 @@
 # leetcode
-my leetcode programe
+my leetcode programs
+welcome to discuss together
